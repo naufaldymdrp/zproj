@@ -1,0 +1,8 @@
+*~
+
+zig-cache
+
+*.pdb
+*.exe
+
+*.swp
